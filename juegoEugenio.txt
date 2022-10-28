@@ -1,0 +1,25 @@
+NOMBRE DEL JUEGO
+
+OBJETIVO
+
+Que nuestra rana salte obstaculos para llegar al nivel mas alto posible 
+
+REGLAS
+* En el aire solo saltos limitados
+* Recompensa: corazones que te reviviran a donde te quedaste
+* Obstaculos: comida envenenada y te regresa al inicio del juego 
+
+TRAMA
+* Camino con arboles
+* Pueda subir arboles porque un gato lo persigue
+* Despues de cierto puntaje cambiar backgorund y aumentar la velocidad
+
+PERSONAJES
+NPC
+* gato
+* pajaro
+* comida
+* corazones
+
+PC
+* rana 
